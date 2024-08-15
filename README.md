@@ -30,7 +30,7 @@ This mini project utilizes the Random User API to fetch and display user data. U
 2. Install dependencies:
 cd your-repo
 npm install
-
+ 
 3. Start the development server
 npm start
 
